@@ -5,6 +5,7 @@ authors:
   - family-names: "El Hmissi"
     given-names: "Maher"
 version: "1.0.0"
+doi: "10.5281/zenodo.24485589"
 date-released: "2026-11-24"
 license: MIT
 repository-code: "https://github.com/Maher75017/gpu-pcf-conjectures"
