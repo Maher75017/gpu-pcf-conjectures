@@ -1,0 +1,9 @@
+{
+  "title": "gpu-pcf-conjectures: three continued fraction conjectures found by GPU search",
+  "upload_type": "software",
+  "description": "Three polynomial continued fractions found by a GPU search (RTX 5090), matching 1/(π−3), 2/ln(27/16) and 3/ln(1024/729) to about 220 digits. They are not in Cohen (arXiv 2304.11727), the Ramanujan Machine paper (Nature 2021) or the public LIReC database (827 entries, checked 24 November 2026). Numerical conjectures, not theorems. Includes the search code, positive and negative controls, and negative results.",
+  "creators": [{"name": "El Hmissi, Maher"}],
+  "license": "MIT",
+  "keywords": ["continued fractions", "experimental mathematics", "Ramanujan Machine", "conjectures", "GPU", "PSLQ"],
+  "version": "1.0.0"
+}
