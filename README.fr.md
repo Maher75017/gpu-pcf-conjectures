@@ -1,6 +1,6 @@
 # gpu-pcf-conjectures (en français)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24485589.svg)](https://doi.org/10.5281/zenodo.24485589)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24485589-blue.svg)](https://doi.org/10.5281/zenodo.24485589)
 
 Trois fractions continues polynomiales trouvées par une recherche sur GPU. Chacune coïncide avec une forme close sur environ 220 chiffres, et aucune ne figure dans les références et la base de données que nous avons consultées. Ce sont des **conjectures numériques, pas des théorèmes**.
 

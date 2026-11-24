@@ -1,6 +1,6 @@
 # gpu-pcf-conjectures
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24485589.svg)](https://doi.org/10.5281/zenodo.24485589)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24485589-blue.svg)](https://doi.org/10.5281/zenodo.24485589)
 
 Three polynomial continued fractions found by a GPU search, each matching a closed form to about 220 digits, and not found in the references and database we checked. They are **numerical conjectures, not theorems**.
 
