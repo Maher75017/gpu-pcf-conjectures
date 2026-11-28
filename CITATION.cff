@@ -1,15 +1,15 @@
 cff-version: 1.2.0
 message: "If you use these conjectures or this code, please cite it as below."
-title: "gpu-pcf-conjectures: three continued fraction conjectures found by GPU search"
+title: "gpu-pcf-conjectures: three continued fractions found by GPU search (one conjecture, two cases of a proved family)"
 authors:
   - family-names: "El Hmissi"
     given-names: "Maher"
-version: "1.0.0"
+version: "1.1.0"
 doi: "10.5281/zenodo.24485589"
-date-released: "2026-11-24"
+date-released: "2026-11-28"
 license: MIT
 repository-code: "https://github.com/Maher75017/gpu-pcf-conjectures"
-abstract: "Three polynomial continued fractions found by a GPU search, matching 1/(pi-3), 2/ln(27/16) and 3/ln(1024/729) to about 220 digits; not found in Cohen (arXiv 2304.11727), the Ramanujan Machine paper or the public LIReC database. Numerical conjectures, not theorems."
+abstract: "Three polynomial continued fractions found by a GPU search, matching 1/(pi-3), 2/ln(27/16) and 3/ln(1024/729) to about 220 digits. Version 1.1.0: the last two are proved. They are the cases k = 2, 3 of an infinite family given by Euler's continued fraction of the series sum 1/(m(2m-1)k^(2m-1)), with value k/((k-1)ln(k-1)+(k+1)ln(k+1)-2k ln k). The first, for 1/(pi-3), remains a numerical conjecture and does not have this structure. Includes the search code, positive and negative controls, negative results and corrections."
 keywords:
   - continued fractions
   - experimental mathematics
