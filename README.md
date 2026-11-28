@@ -1,6 +1,8 @@
 # gpu-pcf-conjectures
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24485589-blue.svg)](https://doi.org/10.5281/zenodo.24485589)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24485588-blue.svg)](https://doi.org/10.5281/zenodo.24485588)
+
+DOI for all versions (always the latest): [10.5281/zenodo.24485588](https://doi.org/10.5281/zenodo.24485588). Version 1.1.0: [10.5281/zenodo.24633640](https://doi.org/10.5281/zenodo.24633640). Version 1.0.0: [10.5281/zenodo.24485589](https://doi.org/10.5281/zenodo.24485589).
 
 Three polynomial continued fractions found by a GPU search, each matching a closed form to about 220 digits, and not found in the references and database we checked.
 
